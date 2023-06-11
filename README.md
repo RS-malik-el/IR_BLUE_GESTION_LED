@@ -34,4 +34,4 @@ Ce code permet d'allumer ou d'éteindre les lampes individuellement en utilisant
 
 ![recepteur_ir](recepteur_ir.jpg)
 
-![relais](relais.jepg)
+![relais](relais.jpeg)
